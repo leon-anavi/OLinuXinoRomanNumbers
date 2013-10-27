@@ -23,11 +23,7 @@ public class MainActivity extends Activity {
         
 		//remove title bar
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
-		
-		//fullscreen
-		this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
-									WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        
+		        
         setContentView(R.layout.activity_main);
         
         m_editAmount = (EditText)findViewById(R.id.inputAmount);
