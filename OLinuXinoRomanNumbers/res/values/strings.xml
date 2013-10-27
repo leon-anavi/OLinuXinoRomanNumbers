@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OLinuXinoRomanNumbers</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">OLinuXinoRomanNumbers</string>
+    <string name="copyright">© 2013 Anavi</string>
+    <string name="version">1.0.0</string>
+    <string name="labelAmount">Decimal Number</string>
+	<string name="labelAppInfo">OLinuXinoRomanNumbers has been created for Olimex Weekend Programming Challenge – Week #30 Roman numbers. The source code is available under GPLv2 license at GitHub.</string>
+</resources>
